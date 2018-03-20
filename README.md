@@ -1,2 +1,1 @@
-# Computer-Vision-Basics
-This Repositry will contain are pre  processing techniques required for image/video processing. All the code is implementation is in python and require the installtation of OpenCv. 
+This Repositry will contain are pre  processing techniques required for image/video processing. All the code is implementation is in python and require the installtation of OpenCv. Once the pre processing is done do consider to follow the computer vision with neural Networks repositry to find a beautiful co-relation between them. All the image or frames once processed will help to attain better results in prediction and GAN. SSD Algortihm in real time with grayscale looks to perform better.
